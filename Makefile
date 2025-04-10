@@ -1,0 +1,2 @@
+Program1: Working_with_struct_without_struct.c
+	gcc Working_with_struct_without_struct.c -o Working_with_struct_without_struct
